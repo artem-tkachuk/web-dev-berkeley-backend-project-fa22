@@ -4,8 +4,6 @@
     {"name": "Water", "boost": 5},
     {"name": "Mystery Pills", "boost": -10},
     {"name": "Cookie", "boost": 10},
-    {"name": "Cheese Touch", "boost": 50},
-    {"name": "Nastya", "boost": 555},
-    {"name": "Art", "boost": 555}
+    {"name": "Cheese Touch", "boost": 50}
   ]
 }

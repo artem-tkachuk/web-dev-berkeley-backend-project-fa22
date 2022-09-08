@@ -12,6 +12,7 @@ export const getGiftMetadata = (req: Request, res: Response) => {
                 })
             } else {
                 // Fancy way to do it I found here: https://dev.to/devtronic/javascript-map-an-array-of-objects-to-a-dictionary-3f42
+                // Can also do it by appending new keys to an initially empty object and doing a forEach on array
                 let giftsStatistics = Object.assign(
                     {},
                     ...giftsDict.map( gift => ({  [gift.name]: gift.gifted  }) )

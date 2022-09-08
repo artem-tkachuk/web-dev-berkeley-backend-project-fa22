@@ -31,7 +31,7 @@ export const postSimulateRaceTime = (req: Request, res: Response) => {
                     .catch(err => {
                         res.status(424).json({
                             code: 424,
-                            message: "Failed because could not update positions of the users!!"
+                            message: "Failed because could not update positions of the runners!!"
                         })
                     })
             })

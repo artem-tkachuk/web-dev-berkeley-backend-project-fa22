@@ -30,3 +30,12 @@ Explanation:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign#merging_objects_with_same_properties
 
 https://www.restapitutorial.com/httpstatuscodes.html#:~:text=The%20424%20(Failed%20Dependency)%20status,action%20and%20that%20action%20failed.
+
+
+# Documentation:
+We also highly encourage you to write out your own documentation to this API and provide us a glimpse of your rationale behind every design decision
+
+
+why did you choose to organize your data schemas/models in this particular way?
+can talk a bit about the "harder" routes that you worked on — harder is completely subjective, so feel free to get creative here!
+how did you decide on certain response codes?
